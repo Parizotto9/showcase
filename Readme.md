@@ -26,7 +26,7 @@ Since this was a **freelance project**, my scope was limited. I was hired to imp
 ## Project Structure (Recommended)
 
 For a React project, I normaly use the `/src` folder in the following way:
-
+```
 /src
 ├─ /assets # Images, fonts, icons, and other static files
 ├─ /components # Reusable UI components
@@ -40,7 +40,7 @@ For a React project, I normaly use the `/src` folder in the following way:
 ├─ app.tsx # Main App component
 ├─ main.tsx # Entry point
 └─ index.css # Global styles
-
+```
 This structure provides a clear separation of concerns and makes the project easier to scale.  
 Depending on the framework or additional tools used, some folders may vary, but the general idea remains the same.
 
@@ -52,4 +52,4 @@ Depending on the framework or additional tools used, some folders may vary, but 
 - This project was built for desktop only (the item details page has a broken image grid), and it is also missing some API information since it only runs locally (e.g., WhatsApp group links).
 
 
-![Showcase Images](https://drive.google.com/drive/folders/1XMUSTx1MXD04RmGXDgHYoR0LrRe-IbGf?usp=drive_link)
+[Showcase Images](https://drive.google.com/drive/folders/1XMUSTx1MXD04RmGXDgHYoR0LrRe-IbGf?usp=drive_link)
