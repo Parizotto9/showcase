@@ -49,3 +49,7 @@ Depending on the framework or additional tools used, some folders may vary, but 
 - My contribution focused on **organization, customization, and small improvements** within the scope of the freelance work.  
 - The suggested structure above is how I would approach a clean React + TypeScript project in a professional environment.
 - This project only includes part of the work I did on the real project, which I can’t share in its entirety.
+- This project was built for desktop only (the item details page has a broken image grid), and it is also missing some API information since it only runs locally (e.g., WhatsApp group links).
+
+
+![Showcase Images](https://drive.google.com/drive/folders/1XMUSTx1MXD04RmGXDgHYoR0LrRe-IbGf?usp=drive_link)
